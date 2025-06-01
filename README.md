@@ -19,7 +19,7 @@ Este repositorio contiene el código desarrollado en **MATLAB App Designer** par
 
 ## 📁 Archivos incluidos
 
-- `Dimensionamiento.mlapp`: Aplicación completa con interfaz gráfica
+- `app1_prueba_axes.mlapp`: Aplicación completa con interfaz gráfica
 - `README.md`: Esta documentación
 
 ## 💡 Aplicación
